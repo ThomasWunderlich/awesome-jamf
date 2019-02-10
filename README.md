@@ -8,9 +8,14 @@ List of awesome jamf resources
 ## Jamf Scripts and configurations
 - [CasperSuiteSCripts](https://github.com/mm2270/CasperSuiteScripts) - A collection of scripts to use with Jamf
 - [JamfScripts[(https://github.com/killahquam/JAMF)
+- https://github.com/jamf/Jamf-Nation-Licensed-Software-Templates
+- https://github.com/jamf/Jamf-Nation-Extension-Attributes
+- https://github.com/jamf/Jamf-Nation-Scripts
+- https://github.com/jamf/MakeMeAnAdmin
 
 ## Mac Hardening
 - https://github.com/jamf/CIS-for-macOS-Sierra
+- https://github.com/jamf/CIS-for-macOS-High-Sierra
 - https://github.com/drduh/macOS-Security-and-Privacy-Guide
 - https://github.com/usnistgov/applesec
 
