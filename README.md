@@ -31,3 +31,4 @@ List of awesome jamf resources
 ## Forensics
 - https://github.com/jipegit/OSXAuditor
 - https://github.com/Yelp/osxcollector
+- https://github.com/CrowdStrike/automactc
