@@ -13,6 +13,10 @@ List of awesome jamf resources
 - https://github.com/jamf/Jamf-Nation-Scripts
 - https://github.com/jamf/MakeMeAnAdmin
 
+## User-friendly Improvements
+- https://github.com/Shufflepuck/SplashBuddy - User-friendly UX to show what's actually being applied during DEP enrollment
+- https://github.com/cubandave/Jamf-Interaction-Toolkit
+
 ## Mac Hardening
 - https://github.com/jamf/CIS-for-macOS-Sierra
 - https://github.com/jamf/CIS-for-macOS-High-Sierra
@@ -23,6 +27,7 @@ List of awesome jamf resources
 ## Auditing
 - https://github.com/CISOfy/lynis
 - https://github.com/kristovatlas/osx-config-check
+- 
 
 ## Complimentary software
 - [Zentral](https://github.com/zentralopensource/zentral)
@@ -32,3 +37,4 @@ List of awesome jamf resources
 - https://github.com/jipegit/OSXAuditor
 - https://github.com/Yelp/osxcollector
 - https://github.com/CrowdStrike/automactc
+- https://github.com/ez3r0sec/JamfProThreatHunting - Scripts for using Jamf for forensics data/threat hunting
